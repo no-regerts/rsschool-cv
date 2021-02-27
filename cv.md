@@ -3,7 +3,7 @@
 - tg: @no_regerts
 
 ## OBJECTIVE
-Ongoing Web Developer student with over than 1 year of self-education on web application building. Seeking to leverage my technical and professional expertise to grow in the new role of Jr Web Developer at your company.
+Ongoing Web Developer student with more than 1 year of self-education on web application building. Seeking to leverage my technical and professional expertise to grow in the new role of Jr Web Developer at your company.
 
 ## EDUCATION AND TRAINING
 Jan 2020 - Present:
