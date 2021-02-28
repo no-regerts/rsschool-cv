@@ -1,0 +1,52 @@
+html {
+  background-color: rgb(107, 158, 179);
+}
+
+body {
+  width: 1200px;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 40px 110px 80px;
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: column;
+
+  background-color: #fff;
+  font-family: 'Roboto', sans-serif;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+h2 {
+  margin-top: 50px;
+}
+h4 {
+  margin-bottom: 5px;
+}
+
+p {
+  line-height: 150%;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+
+  list-style: none;
+}
+.inner-list {
+  padding-left: 30px;
+}
+
+.two-columns {
+  display: flex;
+  justify-content: space-between;
+}
+
+.second-column {
+  margin-right: 200px;
+}
